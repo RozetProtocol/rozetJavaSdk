@@ -115,5 +115,5 @@ public class ListenForBadges {
 
 Execute class as a java program
 
-## Licence 
-You can view our [licence here](https://github.com/RozetProtocol/rozetJavaSdk/blob/master/LICENSE).
+## License 
+You can view our [license here](https://github.com/RozetProtocol/rozetJavaSdk/blob/master/LICENSE).
