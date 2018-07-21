@@ -1,6 +1,8 @@
 # Rozet Java SDK
 
-The Rozet Java SDK implements the client-side libraries used by
+[Javascript](https://github.com/RozetProtocol/rozetJavascriptSdk) | [Python](https://github.com/RozetProtocol/rozetPythonSdk)
+
+The Rozet Java SDK implements the server-side libraries used by
 applications using the Rozet protocols. 
 
 ## Getting Started
@@ -112,3 +114,6 @@ public class ListenForBadges {
 ```
 
 Execute class as a java program
+
+## Licence 
+You can view our [licence here](https://github.com/RozetProtocol/rozetJavaSdk/blob/master/LICENSE).
